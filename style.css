@@ -1,0 +1,11 @@
+body{
+    font-family: "Titillium Web", sans-serif !important;
+    background: rgb(36, 53, 63) !important;
+}
+h1{
+    color: rgb(23, 162, 184) !important;
+}
+input {
+    background-color: transparent !important;
+    color: #fff !important;
+}
